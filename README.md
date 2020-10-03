@@ -1,6 +1,10 @@
 # I am Rich
 
-A new Flutter project.
+I am Rich Flutter App.
+
+## Screensort
+
+<img src="screenshots/Screenshot_1.png" height="400px" alt="App Home Page"/>
 
 ## Getting Started
 
