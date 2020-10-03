@@ -11,8 +11,7 @@ void main() {
         ),
         body: Center(
           child: Image(
-            image: NetworkImage(
-                'https://static.next-episode.net/tv-shows-images/huge/the-flash.jpg'),
+            image: AssetImage('images/quality.png'),
           ),
         ),
       ),
