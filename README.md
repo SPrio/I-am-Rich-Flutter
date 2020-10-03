@@ -6,6 +6,10 @@ I am Rich Flutter App.
 
 <img src="screenshots/Screenshot_1.png" height="400px" alt="App Home Page"/>
 
+## Widget Tree
+
+<img src="screenshots/i_am_rich_structure.png" height="400px" alt="widget tree"/>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
